@@ -13,7 +13,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-public class appOrderCardNegativeTest {
+public class AppOrderCardNegativeTest {
 
     private WebDriver driver;
 
